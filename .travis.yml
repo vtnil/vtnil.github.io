@@ -13,7 +13,7 @@ cache:
 script:
   - hexo clean
   - hexo generate
-  - gulp
+#  - gulp
 
 deploy:
   provider: pages
